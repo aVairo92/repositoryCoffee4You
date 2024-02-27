@@ -14,7 +14,7 @@
 <img src="images/err-cat.jpg" class="img-fluid img-card-catalogo card-img-top" alt="Cart-Empty">
 </div>
 
-<h3>Errore Carta di Credito! Riprova!</h3>
+<h3>Errore Carta di Credito!!! Riprova!</h3>
 
 <div class="row empty-cart-btn">
 <a class="col-6 text-decoration-none"  href="carrello"><button class="btn-checkout">Ritorna al carrello</button></a>
